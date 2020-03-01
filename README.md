@@ -1,0 +1,2 @@
+# MalariaDetector
+Data taken from:
