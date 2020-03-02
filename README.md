@@ -1,5 +1,5 @@
 # MalariaDetector
-Data taken from: https://lhncbc.nlm.nih.gov/publication/pub9932
+Dataset taken from: https://lhncbc.nlm.nih.gov/publication/pub9932
 
 In here, you will see an implementation of Machine Learning algorithm of sequential function that detects whether there is a sign of malaria or not. After 2 epochs, the accuracy of the algorithm reaches 0.9284.
 
